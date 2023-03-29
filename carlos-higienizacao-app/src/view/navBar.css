@@ -1,0 +1,22 @@
+header{
+    background-color: black;
+    height: 60px;
+    width: 80rem;
+    margin-left: 4rem;
+    margin-bottom:100px ;
+}
+
+.dsmovie-nav-content h1{
+    font-weight: 700;
+    font-size: 24px;
+    color: yellow;
+    display: flex;
+}
+.test{
+    display: flex;
+}
+.dsmovie-contact-container{
+    margin-inline-end: 15rem;
+    padding: 0px;
+}
+
