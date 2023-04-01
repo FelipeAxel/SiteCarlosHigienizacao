@@ -8,16 +8,16 @@ class NavBar extends React.Component {
             <header>
                 <nav className="container">
                     <div className="dsmovie-nav-content">
-                        <h1>DSMovie</h1>
+                        <h1>Carlos Higienização</h1>
                         <div className="test">
                             <a href="/#" target="_blank" rel="noreferrer">
                                 <div className="dsmovie-contact-container">
-                                    <p className="inicio">/Inicio</p>
+                                    <p className="inicio">Inicio</p>
                                 </div>
                             </a>
                             <a href="/#" target="_blank" rel="noreferrer">
                                 <div className="dsmovie-contact-container">
-                                    <p className="dsmovie-contact-link">/Contato</p>
+                                    <p className="dsmovie-contact-link">Contato</p>
                                 </div>
                             </a>
                         </div>
